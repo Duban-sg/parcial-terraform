@@ -4,8 +4,6 @@
 Parcial de cloud con terraform
 
 
-
-
 ## Authors
 
 - [Duban sierra Gutierrez](https://www.github.com/duban-sg)

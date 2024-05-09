@@ -5,3 +5,4 @@ terraform/*
 .terraform.tfstate.backup
 .terraform/*
 terraform.tfstate.backup
+link-repo-parcial.txt
